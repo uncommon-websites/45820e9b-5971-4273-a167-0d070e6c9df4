@@ -101,7 +101,7 @@
 
       <!-- Image 2: Backpack (Center Top) -->
       <div class="absolute top-0 left-[45%] w-56 aspect-[3/4]">
-        <img src={images[3]} alt="Minimalist backpack" class="w-full h-full object-cover rounded-sm shadow-lg" />
+        <img src="/generated/image-stylish-minimalist-backpack-in-neutral-t-1766407944098-0.webp" alt="Minimalist backpack" class="w-full h-full object-cover rounded-sm shadow-lg" />
         <div class="absolute top-1/3 left-1/3">
              <div class="w-3 h-3 bg-primary-600 rounded-full mb-2 animate-pulse"></div>
              <button class="bg-white/90 backdrop-blur text-xs px-3 py-1.5 rounded-full shadow-md whitespace-nowrap hover:bg-white transition-colors font-medium">Add to cart</button>
